@@ -1,0 +1,41 @@
+Order Date,Ship Date,Category,Sub-Category,Region,Sales,Quantity,Discount,Profit,Customer Name
+2023-01-05,2023-01-08,Furniture,Chairs,East,261.96,2,0.0,41.91,Alice Johnson
+2023-01-10,2023-01-13,Technology,Phones,West,731.94,3,0.0,219.58,Bob Smith
+2023-01-15,2023-01-18,Office Supplies,Binders,Central,14.62,2,0.0,6.87,Charlie Brown
+2023-01-22,2023-01-25,Furniture,Tables,South,957.58,5,0.45,-383.03,Diana Prince
+2023-02-01,2023-02-04,Technology,Accessories,East,22.72,3,0.2,2.52,Eve Wilson
+2023-02-08,2023-02-10,Office Supplies,Paper,West,48.86,5,0.0,14.17,Frank Miller
+2023-02-14,2023-02-17,Furniture,Bookcases,Central,261.54,4,0.2,37.36,Grace Lee
+2023-02-20,2023-02-24,Technology,Phones,East,911.42,4,0.0,273.43,Henry Davis
+2023-03-01,2023-03-04,Office Supplies,Storage,South,22.37,2,0.0,7.38,Ivy Chen
+2023-03-08,2023-03-11,Furniture,Chairs,West,71.37,2,0.3,-1.02,Jack Taylor
+2023-03-15,2023-03-18,Technology,Machines,Central,1207.68,3,0.0,362.30,Karen White
+2023-03-22,2023-03-26,Office Supplies,Binders,East,4.98,1,0.0,1.79,Liam Anderson
+2023-04-01,2023-04-05,Furniture,Furnishings,South,32.08,2,0.2,8.02,Mia Thomas
+2023-04-10,2023-04-13,Technology,Accessories,West,45.98,2,0.0,13.79,Noah Jackson
+2023-04-18,2023-04-20,Office Supplies,Art,Central,8.56,2,0.0,2.48,Olivia Martin
+2023-05-02,2023-05-05,Furniture,Tables,East,1706.18,9,0.2,-85.31,Peter Garcia
+2023-05-10,2023-05-14,Technology,Phones,South,544.47,3,0.0,163.34,Quinn Robinson
+2023-05-18,2023-05-21,Office Supplies,Envelopes,West,19.05,3,0.0,8.57,Rachel Clark
+2023-06-01,2023-06-04,Furniture,Chairs,Central,516.84,4,0.0,123.16,Sam Lewis
+2023-06-10,2023-06-13,Technology,Copiers,East,2573.82,3,0.0,771.75,Tina Walker
+2023-06-20,2023-06-23,Office Supplies,Paper,South,17.46,3,0.2,4.71,Uma Hall
+2023-07-01,2023-07-04,Furniture,Bookcases,West,191.12,2,0.0,57.34,Victor Allen
+2023-07-10,2023-07-14,Technology,Accessories,Central,75.88,4,0.3,7.59,Wendy Young
+2023-07-20,2023-07-22,Office Supplies,Labels,East,6.16,2,0.0,2.96,Xavier King
+2023-08-01,2023-08-04,Furniture,Chairs,South,295.37,3,0.0,73.84,Yara Wright
+2023-08-10,2023-08-14,Technology,Machines,West,,2,0.2,52.08,Zane Scott
+2023-08-20,2023-08-23,Office Supplies,Binders,Central,21.78,3,0.0,10.24,Alice Johnson
+2023-09-01,2023-09-04,Furniture,Tables,East,1044.63,6,0.3,-261.16,Bob Smith
+2023-09-10,2023-09-13,Technology,Phones,South,199.99,1,0.0,59.99,Charlie Brown
+2023-09-20,2023-09-24,Office Supplies,Storage,West,55.50,2,0.0,16.65,Diana Prince
+2023-10-01,2023-10-04,Furniture,Furnishings,Central,85.99,3,0.0,34.40,Eve Wilson
+2023-10-10,2023-10-13,Technology,Copiers,East,4899.99,2,0.0,1469.99,Frank Miller
+2023-10-20,2023-10-23,Office Supplies,Art,South,7.28,2,0.2,1.09,Grace Lee
+2023-11-01,2023-11-04,Furniture,Chairs,West,188.28,2,0.15,18.83,Henry Davis
+2023-11-10,2023-11-14,Technology,Accessories,Central,29.47,1,0.0,8.84,Ivy Chen
+2023-11-20,2023-11-22,Office Supplies,Paper,East,42.30,6,0.0,19.88,Jack Taylor
+2023-12-01,2023-12-05,Furniture,Bookcases,South,372.60,3,0.0,111.78,Karen White
+2023-12-10,2023-12-13,Technology,Phones,West,649.98,2,0.0,194.99,Liam Anderson
+2023-12-15,2023-12-18,Office Supplies,Binders,Central,11.53,3,0.2,2.88,Mia Thomas
+2023-12-20,2023-12-24,Furniture,Tables,East,,7,0.45,,Noah Jackson
